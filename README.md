@@ -20,6 +20,6 @@ A simple weather app to check real-time weather conditions for any location.
 
 Enter a city name and get live weather updates!
 
-🤝 Contributing
+🤝 Contribution
 
 Fork, improve, and submit a pull request.
