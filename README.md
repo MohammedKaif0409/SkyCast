@@ -14,7 +14,7 @@ A simple weather app to check real-time weather conditions for any location.
 
 🛠 Tech Stack
 
-🌐 HTML, CSS, JavaScript (Frontend)
+🌐 HTML, CSS (Frontend)
 
 🎯 Usage
 
